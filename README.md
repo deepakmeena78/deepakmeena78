@@ -1,25 +1,54 @@
-<h1 align="center">Hi 👋, I'm Deepak Meena</h1>
-<h3 align="center">i'm self learner !!</h3>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hi I'M Deepak Meena</title>
+    </head>
+        <style>
+            h1{
+    border: 0;
+    text-align: center;
+    border-top: 2x solid 140;
+    width: 50%;
+    margin: 20px auto;
+    color: rgb(36, 57, 52);
+}
+h4{
+    border: 0;
+    border-top: 3x solid 140;
+    width: 50%;
+    margin: 20px auto;
+    color: rgb(36, 57, 52);
+}
+#cat{
+    height: 23px;
+    display: inline-block;
+}
+#about{
+    text-align: left;
+}
+        </style>
+    <body>
+        <h1>Hi👋 I'M Deepak Meena
+            <img
+                src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"
+                id="cat"
+                data-cononical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+                style="max-width: 100%; display: inline-block;"
+                data-target="anmate-image.original-Image">
+        </h1><hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakmeena78&label=Profile%20views&color=0e75b6&style=flat" alt="deepakmeena78" /> </p>
+        <h4><i> i'm self learner !!</i></h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakmeena78" alt="deepakmeena78" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-meena-220114286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-meena-220114286" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100025286423780&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100025286423780&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit____meena_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit____meena_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Tea || Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Tea || Coffee" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakmeena78&show_icons=true&locale=en&layout=compact" alt="deepakmeena78" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakmeena78&show_icons=true&locale=en" alt="deepakmeena78" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmeena78&" alt="deepakmeena78" /></p>
+        <h3 id="about">💫 About Me:</h3>
+        <h4 id="main"><pre>
+        🌱 I’m Mern Stack Developer 
+        🔭 I’m currently working on Scrap Second Life 
+        🏫 I'm currently Pursuing Bachelor of Science in Vikram University Ujjain
+        🤝 I’m currently learning nest js 
+        👀 I’m interested in ...Know New things 
+        👯 I’m looking to collaborater 
+        💬 Ask me about java & Mern 
+        📫 How to reach me deepakmeenaa78@gmail.com 
+        ⚡ Fun fact I think I am so funny 😂</h4></pre>
+        </body>
+    </html>
