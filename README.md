@@ -13,7 +13,7 @@
 
 - 🌱 *I’m  <strong> Mern Stack Developer <strong>*
 
-- 🔭 *I’m currently working on [Scrap Second Life](https://github.com/Sohanmaali/Second-Life-RRR)*
+- 🔭 *I’m currently working on [Scrap Second Life]
 
 - 🏫 *I'm currently bachelor of science vikram university ujjain.* <br>
 
@@ -39,7 +39,7 @@
 
 
 ## 🌐 <i>Socials:</i>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakmeena/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakmeena78/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ankit____meena_)
 
 
@@ -150,7 +150,7 @@
 # 📊 <i>GitHub Stats:</i>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmeena78&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=deepekmeena78&theme=gotham&hide_border=false) <br>
+![](https://github-readme-stats.vercel.app/api?username=deepakmeena78&theme=gotham&hide_border=false) <br>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Deeoak&theme=gotham&hide_border=false)-->
 <center>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmeena78&theme=gotham&hide_border=false" alt="Streak Stats">
