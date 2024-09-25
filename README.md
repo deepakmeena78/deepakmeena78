@@ -1,4 +1,4 @@
-<h1 align="center" font=Fira>Hi 👋, I'm Sohan Maali <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h1 align="center" font=Fira>Hi 👋, I'm Deepak Meena <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
 <p align="center">
@@ -8,16 +8,16 @@
 </p>
 
     
-![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
+![](https://komarev.com/ghpvc/?username=deepakmeena78&color=green)
 # 💫 <i>About Me:</i>
 
 - 🌱 *I’m  <strong> Mern Stack Developer <strong>*
 
 - 🔭 *I’m currently working on [Scrap Second Life](https://github.com/Sohanmaali/Second-Life-RRR)*
 
-- 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
+- 🏫 *I'm currently bachelor of science vikram university ujjain.* <br>
 
-- 🤝 *I’m currently learning **nest js***
+- 🤝 *I’m currently learning **mern js***
 
 - 👀 *I’m interested in ...Know New things*
 
@@ -31,7 +31,7 @@
 
 - 💬 *Ask me about **java & Mern***
 
-- 📫 *How to reach me **sohanmaali4@gmail.com***
+- 📫 *How to reach me **deepakmeenaa78@gmail.com***
 
 <!-- - 📄 Know about my experiences [resume link](resume link) -->
 
@@ -39,10 +39,8 @@
 
 
 ## 🌐 <i>Socials:</i>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-maali1/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sohan_maali1)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sohanmaali7) 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sohanmaali1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakmeena/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ankit____meena_)
 
 
 # 💻 <i>Tech Stack:</i>
@@ -151,20 +149,20 @@
 -->
 # 📊 <i>GitHub Stats:</i>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohanmaali&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=sohanmaali&theme=gotham&hide_border=false) <br>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmeena78&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=deepekmeena78&theme=gotham&hide_border=false) <br>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Deeoak&theme=gotham&hide_border=false)-->
 <center>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false" alt="Streak Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmeena78&theme=gotham&hide_border=false" alt="Streak Stats">
     </center>
 
 
 ## 🏆 <i>GitHub Trophies</i>
-![](https://github-profile-trophy.vercel.app/?username=Sohanmaali&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=deepakmeena78&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 <i>Top Contributed Repo</i>
 <div >
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sohanmaali&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+  <img src="https://github-contributor-stats.vercel.app/api?username=deepakmeena78&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </div>
 
 
@@ -174,7 +172,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br clear="both">
-
-<!-- ![Snake animation](https://github.com/Sohanmaali/Sohanmaali/blob/output/github-contribution-grid-snake.svg) -->
-
 
