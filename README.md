@@ -45,7 +45,6 @@
 
 # 💻 <i>Tech Stack:</i>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![hibernate](https://img.shields.io/badge/hibernate-%C71A36.svg?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![Spring](https://img.shields.io/badge/spring-%236DB33A.svg?style=flat&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-%23363636.svg?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Microservices](https://img.shields.io/badge/Microservices-%23316192?style=flat)](https://en.wikipedia.org/wiki/Microservices)
@@ -75,10 +74,6 @@
 [![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/front/main/download/index.htm)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)](https://www.eclipse.)
 [![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Spring Tool Suite 4](https://img.shields.io/badge/Spring_Tool_Suite_4-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/tools)
-
-
-
 
 [![git](https://img.shields.io/badge/git-%23FF6F00.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GiHub](https://img.shields.io/badge/GiHub-%F9DC3e.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
