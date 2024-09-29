@@ -41,7 +41,7 @@
 ## 🌐 <i>Socials:</i>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-meena-220114286/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ankit____meena_)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)]([https://linkedin.com/in/deepak-meena-220114286](https://www.facebook.com/profile.php?id=100025286423780&mibextid=ZbWKwL))
 
 # 💻 <i>Tech Stack:</i>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
