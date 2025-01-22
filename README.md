@@ -15,13 +15,13 @@
 
 - 🔭 *I’m currently working on [Scrap Second Life]
 
-- 🏫 *I'm currently bachelor of science vikram university ujjain.* <br>
+- 🏫 "I'm currently pursuing a Bachelor of Science degree at Vikram University, Ujjain."* <br>
 
 - 🤝 *I’m currently learning **mern js***
 
 - 👀 *I’m interested in ...Know New things*
 
-- 👯 *I’m looking to collaborater*
+- 👯 *I’m looking to collaborate*
 
 <!--- 🤝 I’m looking for help with [kdsjs](kjsd) -->
 
