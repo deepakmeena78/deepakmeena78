@@ -40,9 +40,9 @@
 
 ## 🌐 <i>Socials:</i>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-meena-220114286/)
-// [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ankit____meena_)
-// [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025286423780)
-// [![WhatsApp](https://img.shields.io/badge/WhatsApp-%232EBF7A.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6260576040)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ankit____meena_)
+[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025286423780)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%232EBF7A.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6260576040)
 
 
 
