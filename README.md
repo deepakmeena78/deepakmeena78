@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=JAVA And MERN stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-    
+     
 ![](https://komarev.com/ghpvc/?username=deepakmeena78&color=green)
 # 💫 <i>About Me:</i>
 
