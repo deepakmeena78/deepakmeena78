@@ -13,7 +13,7 @@
 
 - 🌱 *I’m  <strong> Mern Stack Developer <strong>*
 
-- 🔭 *I’m currently working on [Easy Solution]
+- 🔭 *I’m currently working on [ Easy Solution ]
 
 - 🏫 "I'm currently pursuing a Bachelor of Science degree at Vikram University, Ujjain."* <br>
 
