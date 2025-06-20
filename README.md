@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90" alt="Animated Developer GIF">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Animated Developer GIF">
 </p>
 
 
