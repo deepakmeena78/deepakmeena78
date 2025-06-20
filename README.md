@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/VinodChoudhart12/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=JAVA%20And%20MERN%20stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0028C7&vCenter=true&pause=1000&size=22" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=JAVA%20And%20MERN%20stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6864A0&vCenter=true&pause=1000&size=22" alt="Typing SVG">
   </a>
 </p>
 
