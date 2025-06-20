@@ -33,7 +33,7 @@
 
 ## 🔗 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/deepak-meena-220114286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
