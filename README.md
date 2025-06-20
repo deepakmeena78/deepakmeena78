@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://github.com/deepakmeena78">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Java%20%7C%20MERN%20%7C%20NestJS%20Lover;Building%20Projects%20Everyday;Let’s%20Grow%20Together!&center=true&width=500&height=45&pause=1000&color=F75C7E&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=JAVA And MERN stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   </a>
 </p>
 
@@ -13,15 +14,25 @@
 
 ---
 
-## 👨‍💻 About Me
+# 💫 <i>About Me:</i>
 
-- 🌱 I’m currently working as a **MERN Stack Developer**
-- 🔭 Actively working on **Easy Solution Project**
-- 🎓 Pursuing **B.Sc.** from **Vikram University, Ujjain**
-- 👯 Looking to collaborate on **real-world MERN/NestJS projects**
-- 💬 Ask me about **Java, Node.js, React, NestJS**
-- 📫 Reach me at: **deepakmeenaa78@gmail.com**
-- ⚡ Fun fact: *I love debugging and feel like Sherlock Holmes while doing it 🕵️*
+- 🌱 *I’m  <strong> Mern Stack Developer <strong>*
+
+- 🔭 *I’m currently working on [ Easy Solution ]
+
+- 🏫 "I'm currently pursuing a Bachelor of Science degree at Vikram University, Ujjain."* <br>
+
+- 🤝 *I’m currently learning **mern js***
+
+- 👀 *I’m interested in ...Know New things*
+
+- 👯 *I’m looking to collaborate*
+
+- 💬 *Ask me about **java & Mern***
+
+- 📫 *How to reach me **deepakmeenaa78@gmail.com***
+
+- ⚡ *Fun fact **I think I am so funny 😂***
 
 ---
 
