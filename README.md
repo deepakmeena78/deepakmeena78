@@ -1,4 +1,4 @@
-<h1 align="center" font=Fira>Hi 👋, I'm Deepak Meena <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h1 align="center" font=Fira>Hi 👋, I'm Deepak Meena <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 <h3 align="center">🚀 Passionate Java & MERN Stack Developer | 🌱 Always Learning</h3>
 
 <p align="center">
